@@ -1,1 +1,3 @@
-Github.cli mini hackathon in smit
+Author Syed Shamiq Raza
+<br>
+Github.Cli Mini Hackathon in smit
